@@ -8,6 +8,5 @@
   <p>🌐 Citoyenne du monde de l'open source.</p>
   <p>📚 Toujours en quête de connaissances et d'améliorations.</p>
   <p>💡 Chaque ligne de code est une opportunité d'innovation.</p>
-  <p>🌍 Ensemble, façonnons un avenir numérique meilleur.</p>
 
 Un avenir numérique brillant nous attend. Continuons d'écrire ensemble cette histoire passionnante. 🚀
