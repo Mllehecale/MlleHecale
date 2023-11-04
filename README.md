@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bonjour ! 👋
+## Je m'appelle Murielle Hecale (MlleHecale) 
 
-<!--
-**Mllehecale/MlleHecale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>👩‍💻 En Formation Bachelor développeur d'application Python </p> 
+  <p>🎯 Devenir Full stack Developer</p>
+  <p>🔮 Passionnée par la technologie et l'innovation</p>
+  <p>🎨 Artisane du numérique, combinant la créativité et le code</p>
+  <p>🌐 Citoyenne du monde de l'open source.</p>
+  <p>📚 Toujours en quête de connaissances et d'améliorations.</p>
+  <p>💡 Chaque ligne de code est une opportunité d'innovation.</p>
+  <p>🌍 Ensemble, façonnons un avenir numérique meilleur.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Un avenir numérique brillant nous attend. Continuons d'écrire ensemble cette histoire passionnante. 🚀
