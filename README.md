@@ -1,4 +1,4 @@
 # Bonjour ! 👋
 ## Je m'appelle Murielle Hecale (MlleHecale) 
 
-  <p>👩‍💻 En Formation Bachelor développeur d'application Python(now-2024) </p>
+  <p>👩‍💻Diplômée développeur d'application Python(2025) </p>
